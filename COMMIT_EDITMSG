@@ -1,0 +1,7 @@
+Relocate inspector name field to photo upload page for a smoother process
+
+Moves the inspector name field from BasicInfoForm to PhotoUpload component and updates replit.md.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 761c5ad1-55ee-4216-8652-158d30e2781b
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/fef41475-b20a-4870-be6c-4245cb64b0c6/90d0545b-c7c2-4c16-b320-ab804f2b4f7e.jpg
